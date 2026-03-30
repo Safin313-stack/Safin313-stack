@@ -26,7 +26,7 @@
 ┌─────────────────────────────────────────────────────────────┐
 │  name        : Saharia Hassan Safin                         │
 │  alias       : Safin                                        │
-│  location    : Dhaka, Bangladesh 🇧🇩                        │
+│  location    : Dhaka, Bangladesh 🇧🇩                         │
 │  university  : Daffodil International University (DIU)      │
 │  degree      : B.Sc. in Computer Science & Engineering      │
 │  semester    : 4th Semester                                 │
