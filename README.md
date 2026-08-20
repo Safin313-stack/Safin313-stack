@@ -30,7 +30,7 @@
 │  alias       : Safin                                        │
 │  location    : Dhaka, Bangladesh 🇧🇩                         │
 │  university  : Daffodil International University (DIU)      │
-│  degree      : B.Sc. in Computer Science & Engineering       │
+│  degree      : B.Sc. in Computer Science & Engineering      │
 │  cohort      : Programming Hero — Batch 13                  │
 ├─────────────────────────────────────────────────────────────┤
 │  currently_working_on:                                      │
@@ -313,8 +313,6 @@ Cybersecurity challenge solutions.
 </picture>
 
 </div>
-
-> ⚠️ **This snake image only appears once the `snake.yml` Action has run successfully at least once** — it needs to push to a new `output` branch, and by default `GITHUB_TOKEN` cannot push. Fix: go to **repo → Settings → Actions → General → Workflow permissions**, select **"Read and write permissions"**, save, then re-run the workflow from the **Actions** tab. That single toggle is the #1 reason this specific image stays broken.
 
 ---
 
